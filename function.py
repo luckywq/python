@@ -1,6 +1,6 @@
 '''
     list和tuple的区别：
-        list是一种有序的集合，可是随时添加删除其中的元素
+        list是一种有序的集合，可以随时添加删除其中的元素
             取List最后一个元素 可以用list[-1]
             尾部添加元素，append(contend);
             insert(index, content)  指定位置插入元素
